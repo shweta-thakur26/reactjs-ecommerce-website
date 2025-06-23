@@ -25,10 +25,10 @@ From your command line, first clone this repo:
 
 ```
 # Clone this repository
-$ https://github.com/shweta-thakur26/reactjs-ecommerce.git
+$ https://github.com/shweta-thakur26/reactjs-ecommerce-website.git
 
 # Go into the repository
-$ cd reactjs-ecommerce
+$ cd reactjs-ecommerce-website
 
 # Remove current origin repository
 $ git remote remove origin
