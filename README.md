@@ -1,5 +1,8 @@
 # UOMO E-commerce Website Using ReactJS
 
+## 📌 Live Demo
+https://uomo-ecommerce.netlify.app/
+
 ## 😎 Features
 
 - Sleek and modern UI inspired by top e-commerce platforms
